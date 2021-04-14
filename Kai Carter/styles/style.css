@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.nav_item {
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.nav_item:hover {
+    color: #33c;
+}
+
+.main { 
+    background: url(/Kai/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 90vh;
+}
+
+.left {
+    color: white;
+    font-weight: 900;
+}
